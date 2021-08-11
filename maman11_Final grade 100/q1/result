@@ -1,0 +1,72 @@
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: demo
+
+The series is Very Acceding order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: beef
+
+The series is Acceding order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: tonic
+
+The series is Very Descending order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: spoon
+
+The series is  Descending order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: zzz
+
+The series is Acceding order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: aa
+
+The series is Acceding order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: suddenly
+
+There is no order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: abc
+
+The series is Very Acceding order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: cba
+
+The series is Very Descending order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: aa
+
+The series is Acceding order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: aba
+
+There is no order
+
+Hello,Please Enter a string, max input of 100 chars: 
+
+Your Line is: bba
+
+The series is  Descending order

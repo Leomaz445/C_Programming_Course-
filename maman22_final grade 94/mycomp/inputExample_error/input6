@@ -1,0 +1,34 @@
+print_comp
+print_comp,
+print_comp                   ,
+print_comp a
+print_comp A,
+print comp
+
+add_comp
+add_comp 5
+add_comp 5,C
+add_comp , C,5
+add_comp D,T
+add_comp D ,                                                         4
+
+sub_comp ,,
+sub_comp G,T
+sub_comp G,,T
+sub comp G
+sub_comp G,
+
+mult_comp_comp 5, xyz
+mult_comp_comp A,                         R
+
+abs_comp A 5
+ab_comp AA
+
+mult_comp_real B,20.324234324234324234234234242342342423423424242342,
+mult_comp_img C,20..32131321313131312
+mult_comp_img C,20.34234...,2343242
+
+read_comp A, 20.34234234234,432423432423423423...
+read_comp F, --213123,--32131323
+read_comp G, -2...,,,-32132
+
